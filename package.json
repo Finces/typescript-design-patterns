@@ -1,0 +1,16 @@
+{
+  "name": "typescript-design-patterns",
+  "version": "1.0.0",
+  "description": "https://www.udemy.com/course/design-patterns-using-typescript/",
+  "author": "Jacek Tokarz",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Finces/typescript-design-patterns.git"
+  },
+  "homepage": "https://github.com/Finces/typescript-design-patterns",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
