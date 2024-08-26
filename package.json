@@ -9,13 +9,13 @@
   },
   "homepage": "https://github.com/Finces/typescript-design-patterns",
   "license": "ISC",
-  "main": "index.js",
   "dependencies": {
     "ts-node": "^10.9.2"
   },
   "scripts": {
-    "example:abstraction": "ts-node 2-oop/1-abstraction/abstraction.example.ts",
-    "example:encapsulation": "ts-node 2-oop/2-encapsulation/encapsulation.example.ts",
-    "example:polymorphism": "ts-node 2-oop/3-polymorphism/polymorphism.example.ts"
+    "example:oop:abstraction": "ts-node 2-oop/1-abstraction/abstraction.example.ts",
+    "example:oop:encapsulation": "ts-node 2-oop/2-encapsulation/encapsulation.example.ts",
+    "example:oop:polymorphism": "ts-node 2-oop/3-polymorphism/polymorphism.example.ts",
+    "example:oop:inheritance": "ts-node 2-oop/4-inheritance/inheritance.example.ts"
   }
 }
