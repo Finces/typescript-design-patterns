@@ -18,6 +18,7 @@
     "example:oop:polymorphism": "ts-node 2-oop/3-polymorphism/polymorphism.example.ts",
     "example:oop:inheritance": "ts-node 2-oop/4-inheritance/inheritance.example.ts",
 
-    "example:solid:single-responsibility-principle": "ts-node 3-solid/2-single-responsibility-principle/single-responsibility-principle.example.ts"
+    "example:solid:single-responsibility-principle": "ts-node 3-solid/2-single-responsibility-principle/single-responsibility-principle.example.ts",
+    "example:solid:open-closed-principle": "ts-node 3-solid/3-open-closed-principle/open-closed-principle.example.ts"
   }
 }
