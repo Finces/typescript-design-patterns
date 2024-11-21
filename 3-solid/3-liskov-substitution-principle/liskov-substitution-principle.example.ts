@@ -20,6 +20,14 @@ class BlikProcessor extends PaymentProcessor {
     }
 }
 
+// How this principle can be broken?
+// Very easily!
+class PaypalProcessor extends PaymentProcessor {
+    process(amount: number): void {
+        throw new Error('Not implemented yet!');
+    }
+}
+
 //----------------
 
 class PaymentService {
